@@ -1,7 +1,7 @@
 # dhcp-monitor-leases
 Monitor de leases
 
-Monitora em tempo real os IPs que emtram e saem, bem como: MAC address, Data/hora de expiração e hostname (se disponível no DHCP).
+Monitora em tempo real os IPs que entram e saem, bem como: MAC address, Data/hora de expiração e hostname (se disponível no DHCP).
 
 -----------------------------------------------------COMO INSTALAR---------------------------------------------------------------
 
