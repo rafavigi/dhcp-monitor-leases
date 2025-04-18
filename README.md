@@ -10,7 +10,8 @@ Extraia o arquivo:
 tar -xzvf monitor-dhcp-service.tar.gz -C /
 ---------------------------------------------------
 Recarregue os serviços:
-sudo systemctl daemon-reexec
+sudo systemctl daemon-reexec 
+# ou daemon-reload, se não tiver reexec
 ---------------------------------------------------
 Ative o serviço:
 sudo systemctl enable monitor-dhcp-leases.service
